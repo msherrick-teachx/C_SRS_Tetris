@@ -1,0 +1,19 @@
+{
+  "das": 0,
+  "arr": 100,
+  "sdf": 40,
+  "gravity": 1.0,
+  "lock_delay": 500,
+  "keybinds": {
+    "left": 1073741904,
+    "right": 1073741903,
+    "soft_drop": 1073741905,
+    "hard_drop": 32,
+    "rotate_cw": 1073741906,
+    "rotate_ccw": 120,
+    "rotate_180": 122,
+    "hold": 99,
+    "pause": 27,
+    "restart": 114
+  }
+}
